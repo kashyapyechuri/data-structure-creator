@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: hashbst.h
-
-Description: This file is a hashbst file for project part 1.
+Author: Kashyap Yechuri
 
 */
 #include "bst.h"

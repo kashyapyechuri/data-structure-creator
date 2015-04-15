@@ -1,3 +1,1 @@
-Name: Kashyap Yechuri
-
-Description: Sets up 5 structures and uses insert, delete, and search with them. Allows the user to input files of their choice to do these things. This was created for the purpose of holding 50,000 telephone numbers and performing actions on them. 
+Description: Allows user to insert, delete, and search within 5 different data structures. Only accepts these functions to be done in a file format. Tested to correctness on 100,000 numbers. Has a good looking menu in terminal and allows for navigation through the program's functions there.

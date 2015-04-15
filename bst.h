@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: bst.h
-
-Description: This file is a bst file for project part 1.
+Author: Kashyap Yechuri
 
 */
 #ifndef BST_H

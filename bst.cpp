@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: bst.cpp
-
-Description: This file is the bst file for project part 1.
+Author: Kashyap Yechuri
 
 */
 #include <iostream>

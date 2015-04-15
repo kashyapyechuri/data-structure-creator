@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: hashbst.cpp
-
-Description: This file is the hashbst file for project part 1.
+Author: Kashyap Yechuri
 
 */
 #include <iostream>
