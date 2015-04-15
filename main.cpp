@@ -1,10 +1,8 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
+Author: Kashyap Yechuri
 
-Filename: main.cpp
-
-Description: This file is the driver file for project part 1.
+Description: This file is the driver file that runs this whole project.
 
 */
 #include <iostream>
