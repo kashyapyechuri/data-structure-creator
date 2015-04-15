@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: doublehash.h
-
-Description: This file is a doublehash file for project part 1.
+Author: Kashyap Yechuri
 
 */
 #include "hashlist.h"
