@@ -1,5 +1,3 @@
 Name: Kashyap Yechuri
 
-Description: Allows user to insert, delete, and search within 5 different data structures. Only accepts these functions to be
-done in a file format. Tested to correctness on 100,000 numbers. Has a good looking menu in terminal and allows for navigation
-through the program's functions there.
+Description: Allows user to insert, delete, and search within 5 different data structures. Only accepts these functions to be done in a file format. Tested to correctness on 100,000 numbers. Has a good looking menu in terminal and allows for navigation through the program's functions there.
