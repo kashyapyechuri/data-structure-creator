@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: avl.cpp
-
-Description: This file is the avl file for project part 1.
+Author: Kashyap Yechuri
 
 */
 
