@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: avl.h
-
-Description: This file is an avl file for project part 1.
+Author: Kashyap Yechuri
 
 */
 #ifndef AVL_H
