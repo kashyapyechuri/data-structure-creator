@@ -1,10 +1,6 @@
 /*
 
-Author: kyechur, Kashyap Yechuri
-
-Filename: doublehash.cpp
-
-Description: This file is the doublehash file for project part 1.
+Author: Kashyap Yechuri
 
 */
 
